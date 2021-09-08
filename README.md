@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/fryttzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fryttzz&show_icons=true&theme=dracula-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fryttzz&show_icons=true&theme=dark
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fryttzz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div> 
